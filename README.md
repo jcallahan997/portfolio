@@ -1,46 +1,32 @@
 # Data Scientist
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: Azure, Databricks, Palantir Foundry, R (Shiny, Plotly, etc.), SQL, Python (Pandas, scikit-learn, PySpark, etc.), PowerBI, Typescript/Javascript, LaTeX, QGIS
 
-## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+## Education							       		
+- M.S., Quantitative Economics	| The University of Pittsburgh (_2023_)	 			        		
+- B.S., Economics | The University of Pittsburgh (_2022_)
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+**Data Scientist @ Guidehouse (_August 2023 - Present_)**
+- Provides cutting-edge prescriptive, descriptive, and predictive analytics capabilities to public sector clients as part of the Defense & Security team, specializing in applications of data science in the aviation sector.
+- Leverages Palantir Foundry as a data platform to build highly versatile tools for clients emphasizing data quality and the incorporation of CI/CD practices.
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+**Data Analytics Consultant Intern @ CGI (_January 2023 - May 2023_)**
+- Managed the ETL pipeline, cleaned data and performed exploratory data analysis. Created feature engineering workflows and enforced proper version control (git) with a team of 3 developers. 
+- Used unsupervised machine learning techniques, including KMeans, One-hot encoding, and hyperparameter tuning (GridSearchCV etc.), to create market-segmentation models for use in the banking sector.
+- Produced data visualizations and model documentation.
+
+**Enlisted Aircraft Technician @ Pennsylvania Air National Guard (_December 2017 - December 2023_)**
+- Analyzed flight data to troubleshoot, repair, and perform lifecycle management on KC135 jet engines.
+- Delivered timely and robust aircraft maintenance solutions to maintain the air-refueling capabilities of the US Air Force during deployments to Qatar, Australia, and Guam; experienced in AOG (aircraft on ground) field repair and recovery. 
+- Collaborated with a team of 14 in managing $640M of government material assets; displayed consistent attention to detail and resourcefulness, resulting in an Airman of the Quarter nomination. 
 
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-
-
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+### To be continued
 
 
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
 
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
-
-
-
-## Talks & Lectures
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
-
-
-
-## Publications
 
 
