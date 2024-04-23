@@ -1,2 +1,4 @@
 portfolio
-#data scientist#
+#data scientist
+
+###education:
