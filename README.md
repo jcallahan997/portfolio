@@ -24,12 +24,11 @@
 ## Projects
 <table>
   <tbody>
-    <tr><td><b>Showcase</b></td></tr>
+    <tr><td><b>RShiny App - Car Mileage and Price Interaction</b></td></tr>
     <tr>
       <td width="50%">
         <ul>
-          <li><a href="https://fxyqh7-james-callahan.shinyapps.io/car_shinyapp/">Projects</a></li>
-          <li>. . .</li>
+          <li><a href="https://fxyqh7-james-callahan.shinyapps.io/car_shinyapp/">RShiny App - Car Mileage and Price Interaction</a></li>
         </ul>
       </td>
     </tr>
