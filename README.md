@@ -22,9 +22,19 @@
 - Collaborated with a team of 14 in managing $640M of government material assets; displayed consistent attention to detail and resourcefulness, resulting in an Airman of the Quarter nomination. 
 
 ## Projects
-### To be continued
-
-
+<table>
+  <tbody>
+    <tr><td><b>Showcase</b></td></tr>
+    <tr>
+      <td width="50%">
+        <ul>
+          <li><a href="./Pages/projects.md">Projects</a></li>
+          <li>. . .</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 
 
