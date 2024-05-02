@@ -28,7 +28,7 @@
     <tr>
       <td width="50%">
         <ul>
-          <li><a href="./Pages/projects.md">Projects</a></li>
+          <li><a href="https://fxyqh7-james-callahan.shinyapps.io/car_shinyapp/">Projects</a></li>
           <li>. . .</li>
         </ul>
       </td>
